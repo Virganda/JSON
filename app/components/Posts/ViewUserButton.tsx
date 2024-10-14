@@ -6,7 +6,7 @@ interface ViewUserButtonProps {
 
 const ViewUserButton: React.FC<ViewUserButtonProps> = ({ userId }) => {
   const handleClick = () => {
-    if (userId > 100) {
+    if (userId > 001) {
       alert('USE YOUR SKINCARE!');
     } else {
       alert('DONT SKIP YOUR SKINCARE');
@@ -15,7 +15,7 @@ const ViewUserButton: React.FC<ViewUserButtonProps> = ({ userId }) => {
   
   return (
     <>
-      <button onClick={handleClick}>Apakah Anda Butuh Motivasi? click me!!</button>
+      <button onClick={handleClick}>MOTIVATION!!</button>
     </>
   );
 };
