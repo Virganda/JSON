@@ -1,0 +1,21 @@
+{
+    "Skincare": 
+    [
+        {
+            "IdProduk": "001",
+            "NamaProduk": "Moisturizer Azarine",
+            "HargaModal": "50000",
+            "HargaJual": "57000",
+            "HargaDiskon": "55000",
+            "Stok": "56"
+        },
+        {
+            "IdProduk": "001",
+            "NamaProduk": "sunscreen skintific",
+            "HargaModal": "63000",
+            "HargaJual": "68000",
+            "HargaDiskon": "66000",
+            "Stok": "70"
+        }
+    ]
+}
